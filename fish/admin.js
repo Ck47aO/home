@@ -54,8 +54,6 @@ function sendCommand() {
     });
 }
 
-getData()
-
 setInterval(function() {
     keepOnline()
 }, 1000)
