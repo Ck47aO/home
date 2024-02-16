@@ -50,7 +50,7 @@ function sendCommand() {
     }).then(response => {
         return response.json();
     }).then(json => {
-        getData()
+        
     });
 }
 
